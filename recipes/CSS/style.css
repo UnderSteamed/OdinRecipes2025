@@ -1,0 +1,27 @@
+a:link{color: black;}
+a:visited{color: black;}
+a:hover{color: red;}
+a:active{color: pink;}
+a{text-decoration: none;}
+
+.title{text-align: center;
+    font-size: 55px
+}
+
+.headers{text-align: center;
+font-size: 30px;
+}
+
+.fin{display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 80%;
+}
+ul{list-style-type: none;}
+
+.words{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+
+}
