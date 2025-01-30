@@ -1,0 +1,30 @@
+
+
+
+
+
+
+.Main{color:black;
+    text-align: center;
+}
+
+
+a:link{color: black;}
+a:visited{color: black;}
+a:hover{color:red}
+a:active{color: pink;}
+a{text-decoration: none;}
+
+
+.types{text-align: center;
+    color: black;
+   
+}
+
+
+.unordered{display: inline-block;
+text-align:left;
+
+}
+
+ul{list-style-type: none;}
